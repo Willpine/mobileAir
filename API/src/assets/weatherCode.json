@@ -1,0 +1,290 @@
+[
+	{
+		"code": 1000,
+		"dia": "Ensolarado",
+		"noite": "Claro",
+		"ícone": 113
+	},
+	{
+		"code": 1003,
+		"dia": "Parcialmente nublado",
+		"noite": "Parcialmente nublado",
+		"ícone": 116
+	},
+	{
+		"code": 1006,
+		"dia": "Nublado",
+		"noite": "Nublado",
+		"ícone": 119
+	},
+	{
+		"code": 1009,
+		"dia": "Encoberto",
+		"noite": "Encoberto",
+		"ícone": 122
+	},
+	{
+		"code": 1030,
+		"dia": "Névoa",
+		"noite": "Névoa",
+		"ícone": 143
+	},
+	{
+		"code": 1063,
+		"dia": "Possibilidade de chuva irregular",
+		"noite": "Possibilidade de chuva irregular",
+		"ícone": 176
+	},
+	{
+		"code": 1066,
+		"day": "Patchy snow possible",
+		"noite": "Possibilidade de neve fragmentada",
+		"ícone": 179
+	},
+	{
+		"code": 1069,
+		"dia": "Possibilidade de granizo irregular",
+		"noite": "Possibilidade de granizo irregular",
+		"ícone": 182
+	},
+	{
+		"code": 1072,
+		"dia": "Possibilidade de garoa congelante irregular",
+		"noite": "Possibilidade de garoa gelada e fragmentada",
+		"ícone": 185
+	},
+	{
+		"code": 1087,
+		"dia": "Possíveis focos de tempestade",
+		"noite": "Possíveis focos de tempestade",
+		"ícone": 200
+	},
+	{
+		"code": 1114,
+		"dia": "Soprando neve",
+		"noite": "Soprando neve",
+		"ícone": 227
+	},
+	{
+		"code": 1117,
+		"dia": "Blizzard",
+		"noite": "Blizzard",
+		"ícone": 230
+	},
+	{
+		"code": 1135,
+		"dia": "Nevoeiro",
+		"noite": "Nevoeiro",
+		"ícone": 248
+	},
+	{
+		"code": 1147,
+		"dia": "Névoa congelante",
+		"noite": "Névoa congelante",
+		"ícone": 260
+	},
+	{
+		"code": 1150,
+		"dia": "Chuviscos fracos",
+		"noite": "Chuviscos fracos",
+		"ícone": 263
+	},
+	{
+		"code": 1153,
+		"dia": "Chuvisco leve",
+		"noite": "garoa leve",
+		"ícone": 266
+	},
+	{
+		"code": 1168,
+		"dia": "garoa gelada",
+		"noite": "garoa gelada",
+		"ícone": 281
+	},
+	{
+		"code": 1171,
+		"dia": "Chuviscos congelantes fortes",
+		"noite": "Garoa forte e gelada",
+		"ícone": 284
+	},
+	{
+		"code": 1180,
+		"dia": "Chuva fraca",
+		"noite": "Chuva fraca",
+		"ícone": 293
+	},
+	{
+		"code": 1183,
+		"dia": "Chuva fraca",
+		"noite": "Chuva fraca",
+		"ícone": 296
+	},
+	{
+		"code": 1186,
+		"dia": "Às vezes, chuva moderada",
+		"noite": "Às vezes, chuva moderada",
+		"ícone": 299
+	},
+	{
+		"code": 1189,
+		"dia": "Chuva moderada",
+		"noite": "Chuva moderada",
+		"ícone": 302
+	},
+	{
+		"code": 1192,
+		"dia": "Às vezes, chuva forte",
+		"noite": "Às vezes, chuva forte",
+		"ícone": 305
+	},
+	{
+		"code": 1195,
+		"dia": "Chuva forte",
+		"noite": "Chuva forte",
+		"ícone": 308
+	},
+	{
+		"code": 1198,
+		"day": "Chuva congelante leve",
+		"noite": "Chuva congelante leve",
+		"ícone": 311
+	},
+	{
+		"code": 1201,
+		"dia": "Chuva congelante moderada ou forte",
+		"noite": "Chuva congelante moderada ou forte",
+		"ícone": 314
+	},
+	{
+		"code": 1204,
+		"dia": "granizo leve",
+		"noite": "granizo leve",
+		"ícone": 317
+	},
+	{
+		"code": 1207,
+		"dia": "granizo moderado ou forte",
+		"noite": "granizo moderado ou forte",
+		"ícone": 320
+	},
+	{
+		"code": 1210,
+		"dia": "Neve fraca irregular",
+		"night": "Patchy light snow",
+		"ícone": 323
+	},
+	{
+		"code": 1213,
+		"dia": "Neve fraca",
+		"noite": "Neve fraca",
+		"ícone": 326
+	},
+	{
+		"code": 1216,
+		"dia": "Neve moderada irregular",
+		"noite": "Neve moderada irregular",
+		"ícone": 329
+	},
+	{
+		"code": 1219,
+		"dia": "Neve moderada",
+		"noite": "Neve moderada",
+		"ícone": 332
+	},
+	{
+		"code": 1222,
+		"day": "Patchy forte neve",
+		"noite": "Neve irregular",
+		"ícone": 335
+	},
+	{
+		"code": 1225,
+		"dia": "Neve forte",
+		"noite": "Neve forte",
+		"ícone": 338
+	},
+	{
+		"code": 1237,
+		"dia": "Pelotas de gelo",
+		"noite": "Pelotas de gelo",
+		"ícone": 350
+	},
+	{
+		"code": 1240,
+		"dia": "Chuva leve",
+		"noite": "Chuva leve",
+		"ícone": 353
+	},
+	{
+		"code": 1243,
+		"dia": "Chuva moderada ou forte",
+		"noite": "Chuva moderada ou forte",
+		"ícone": 356
+	},
+	{
+		"code": 1246,
+		"dia": "Chuva torrencial",
+		"noite": "Chuva torrencial",
+		"ícone": 359
+	},
+	{
+		"code": 1249,
+		"dia": "aguaceiros de neve leve",
+		"noite": "aguaceiros de granizo leve",
+		"ícone": 362
+	},
+	{
+		"code": 1252,
+		"dia": "aguaceiros de granizo moderados ou fortes",
+		"noite": "aguaceiros de granizo moderados ou fortes",
+		"ícone": 365
+	},
+	{
+		"code": 1255,
+		"dia": "Pancadas leves de neve",
+		"noite": "Pancadas leves de neve",
+		"ícone": 368
+	},
+	{
+		"code": 1258,
+		"dia": "Pancadas de neve moderadas ou fortes",
+		"noite": "aguaceiros de neve moderados ou fortes",
+		"ícone": 371
+	},
+	{
+		"code": 1261,
+		"dia": "Chuvas leves de pelotas de gelo",
+		"noite": "Chuvas leves de pelotas de gelo",
+		"ícone": 374
+	},
+	{
+		"code": 1264,
+		"dia": "aguaceiros moderados ou intensos de pellets de gelo",
+		"noite": "aguaceiros moderados ou fortes de pellets de gelo",
+		"ícone": 377
+	},
+	{
+		"code": 1273,
+		"day": "Patchy light rain with thunder",
+		"night": "Patchy light rain with thunder",
+		"ícone": 386
+	},
+	{
+		"code": 1276,
+		"dia": "Chuva moderada ou forte com trovão",
+		"noite": "Chuva moderada ou forte com trovão",
+		"ícone": 389
+	},
+	{
+		"code": 1279,
+		"day": "Patchy light snow with thunder",
+		"night": "Patchy light snow with thunder",
+		"ícone": 392
+	},
+	{
+		"code": 1282,
+		"dia": "Neve moderada ou forte com trovão",
+		"noite": "Neve moderada ou forte com trovão",
+		"ícone": 395
+	}
+]
